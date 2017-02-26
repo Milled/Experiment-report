@@ -7,7 +7,7 @@ int main(int argc, char const *argv[]) {
   b=3;
   c=4;
   d=sqrt(a)+sqrt(b)+sqrt(c);
-  char str[] = "平方根的和：";
+  char str[] = "平方根的和为：";
   printf("%s%.4f\n",str,d);
   return 0;
 }
