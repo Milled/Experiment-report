@@ -7,7 +7,7 @@ int main(int argc, char const *argv[]) {
   b=3;
   c=4;
   d=sqrt(a)+sqrt(b)+sqrt(c);
-  char str[] = "Æ½·½¸ùµÄºÍÎª£º";
+  char str[] = "å¹³æ–¹æ ¹çš„å’Œä¸ºï¼š";
   printf("%s%.4f\n",str,d);
   return 0;
 }
